@@ -7,7 +7,7 @@ In this repository you will find my solutions to:
 
 Each folder contains:
 - trained model weights
-- pickled data files
+- setup file to pickle from provided data sets
 - model notebook 
 - testing notebook for loading and evaluating trained models
 
